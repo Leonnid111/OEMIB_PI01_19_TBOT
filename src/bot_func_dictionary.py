@@ -17,6 +17,7 @@ from functions.currency_exchange_rate import GetCurrencyExchangeRate
 from functions.music import Music
 from functions.Citata import CitataGenerator
 from functions.nytimes import NYTimes_science
+from functions.lenta import Lenta_news
 
 BOT_FUNCTIONS_2 = {
     "start_info": BotFunction2(
